@@ -1,0 +1,9 @@
+output*
+selftest/*/*.o
+selftest/*/*.skel.h
+selftest/*/*-static
+selftest/*/*-dynamic
+selftest/*/ctest
+selftest/*/gotest
+testing/tracee
+.vagrant*
